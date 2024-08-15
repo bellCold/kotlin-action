@@ -1,1 +1,17 @@
 first commit
+
+<<<<<<< HEAD
+second commit
+=======
+second commit
+
+third commit
+
+four commit
+>>>>>>> 9118f33 (four)
+
+
+44
+
+55
+asdf
