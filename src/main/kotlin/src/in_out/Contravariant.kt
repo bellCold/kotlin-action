@@ -5,7 +5,7 @@ interface InExample<in T> {
 }
 
 interface OutExample<out T> {
-    fun returnValue(name: String):
+    fun returnValue(name: String): String
 }
 
 class StringInExample : InExample<String> {
