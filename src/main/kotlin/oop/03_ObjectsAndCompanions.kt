@@ -84,7 +84,7 @@ interface EventListener {
 class Person private constructor(val name: String, val age: Int) {
     
     fun introduce() {
-        println("안녕하세요, 저는 $name이고 $age살입니다.")
+        println("안녕하세요, 저는 ${name}이고 ${age}살입니다.")
     }
     
     companion object {
