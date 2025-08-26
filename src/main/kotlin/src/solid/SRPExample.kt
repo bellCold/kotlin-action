@@ -10,6 +10,7 @@ class ReportController(private val reportService: ReportService, private val ema
 
 class ReportService {
     fun generateReport(reportContent: String) {
+
         TODO("Not yet implemented")
     }
 
